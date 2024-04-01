@@ -1,3 +1,3 @@
 # MinicursoCSS
 
-Link para a página: https://vitorvmpontes.github.io/MinicursoCSS/
+Link para a página: https://alveshenriique.github.io/Minicurso-CSS/
