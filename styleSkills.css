@@ -1,0 +1,49 @@
+@font-face {
+    font-family: "beautfortlol-regular";
+    src: url(font/BeaufortforLOL-Regular.otf);
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+div{
+    color: white;
+    width: 500px; 
+    height: 700px; 
+    border-radius: 20px;
+    font-weight: bold;
+    text-align: center;
+    font-size: larger;
+    padding: 10px;
+    position: absolute;
+    top: 50%; 
+    left: 50%;
+    transform: translate(-50%, -50%); 
+}
+    
+
+
+
+body{
+    background-image: url(img/summoners.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+p{
+    font-size: large;
+}
+video{
+    height: 300px;
+    width: 400px;
+}
+div > p{
+    font-size: x-large;
+}

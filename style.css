@@ -1,0 +1,70 @@
+@font-face {
+    font-family: "beautfortlol-regular";
+    src: url(font/BeaufortforLOL-Regular.otf);
+    
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+div{
+    text-align: center;
+    font-family: "beautfortlol-regular";
+    
+
+}
+div > p {
+    font-size: 1.3em;
+}
+img{
+    width: 500px;
+    height: 400px;
+}
+input{
+    width: 75px;
+    height: 75px;
+}
+input:hover{
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.464);
+}
+body{
+    background-image: url(img/ionia.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#passive{
+    background-image: url(img/Passiva.PNG);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#q{
+    background-image: url(img/Q.PNG);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#w{
+    background-image: url(img/W.PNG);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#e{
+    background-image: url(img/E.PNG);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#r{
+    background-image: url(img/R.PNG);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+img#lolzin{
+    width: 250px;
+    height: 100px;
+}
+footer{
+    color: white;
+    text-align: center;
+    padding: 10px;
+    background-color: black;
+}
